@@ -255,12 +255,12 @@
                 "videoPreview": "file:///C:/Users/darkm/AppData/Local/Mobirise.com/Mobirise/darkmilinko_0040hotmail_002ecom/addons/mobirise3/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-1282-2000x1335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1282-2000x1335-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-4666-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-4666-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "Portraits",
-                "caption": "Macro Photography",
-                "active": false
+                "caption": "Engagements",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -279,12 +279,12 @@
                 "videoPreview": "file:///C:/Users/darkm/AppData/Local/Mobirise.com/Mobirise/darkmilinko_0040hotmail_002ecom/addons/mobirise3/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1276-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-5049-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-5049-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "Portraits",
                 "caption": "Real Estate",
-                "active": true
+                "active": false
               }
             ]
           },
